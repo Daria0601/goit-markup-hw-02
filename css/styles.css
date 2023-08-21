@@ -143,8 +143,17 @@ h3 {
   letter-spacing: 0.32px;
 }
 
-.footer-text,
 .footer-text-logo {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.footer-text {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
