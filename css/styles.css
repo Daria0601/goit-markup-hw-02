@@ -55,7 +55,7 @@ button {
   color: #2e2f42;
 }
 
-.contact-list-link {
+.contact-list {
   font-size: 16px;
   color: #434455 
   line-height: 1.5;
@@ -102,7 +102,7 @@ address ul a {
 }
 
 .our-team-background {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .footer-background {
